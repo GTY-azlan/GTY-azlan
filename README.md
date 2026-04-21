@@ -3,25 +3,16 @@
 
 I'm a passionate developer focused on building impactful web solutions and exploring the frontiers of AI. With experience in both technical development and HR operations, I bring a unique perspective to engineering teams.
 
-- 👀 **Interested in:** Remote/Online opportunities in AI and Web Development.
-- 🌱 **Currently learning:** Advanced AI integrations and Scalable Cloud Architectures.
-- 💞️ **Looking for:** A forward-thinking company where I can contribute and grow.
-- ⚡ **Fun fact:** I love bridging the gap between human resources and technical innovation.
+- 👀 **Interested in:** Online jobs
+- 🌱 **Currently learning:** AI Engineering and Web Development
+- 💞️ **Looking for:** A good company
+- ⚡ **Fun fact:** I bridge the gap between technical innovation and HR operations.
 
 ---
 
-### 🛠️ Tech Stack & Skills
-- **AI & Data:** Python, Machine Learning (Internship focus)
-- **Web Development:** JavaScript, Next.js, React, HTML5, CSS3
-- **Tools & Platforms:** Microsoft 365, GitHub, Enterprise Reporting
-- **Specialized:** Tech HR Operations & Auditing
-
----
-
-### 🚀 Featured Projects
+### 🚀 Projects
 - [**My Executive Dashboard**](https://github.com/GTY-azlan/my-executive-dashboard) - A comprehensive dashboard for business intelligence and executive oversight.
   - 🤝 **Contributions are welcome!** Feel free to open an issue or submit a PR if you'd like to help improve this project.
-- [**Space Odyssey**](https://github.com/GTY-azlan/space-odyssey) - Immersive space exploration site using NASA's mission data.
 
 ---
 
